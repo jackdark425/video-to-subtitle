@@ -2,11 +2,6 @@
 *.pt
 whisper/*.pt
 
-# Generated files
-*.wav
-*.srt
-output/
-
 # Python
 __pycache__/
 *.py[cod]
